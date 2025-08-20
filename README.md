@@ -136,3 +136,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<br><br>
+<p><img src="https://profile-counter.deno.dev/Stiegler19/count.svg"></p>

@@ -22,6 +22,7 @@
 
 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -53,6 +54,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -96,19 +105,19 @@
 />
 <img 
     align="left" 
+    alt="figma" 
+    title="figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -118,6 +127,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="mySql" 
+    title="sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="postman" 
+    title="postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -125,16 +150,39 @@
 ##
 
 <br/>
-<br/>
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <p>
+  <img
+        align="left" 
+        alt="GitHub Stats" 
+        height="130" 
+        src="https://github-readme-stats.vercel.app/api?username=Stiegler19&theme=bear&show_icons=true&hide_border=false&count_private=true" 
   />
-</p>
-<br><br>
-<p><img src="https://profile-counter.deno.dev/Stiegler19/count.svg"></p>
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="190" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="130" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Stiegler19&theme=bear&hide_border=false" 
+    />
+  </p>
+
+
+<br><br><br><br><br><br>
+
+##
+
+<div align=center>
+  <h4>Visitas</h4>
+  <p>
+    <img 
+      align="center"
+      src="https://profile-counter.deno.dev/Stiegler19/count.svg"
+    />
+  </p>
+</div>

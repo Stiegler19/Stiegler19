@@ -164,12 +164,7 @@
         height="190" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="130" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Stiegler19&theme=bear&hide_border=false" 
-    />
+
   </p>
 
 

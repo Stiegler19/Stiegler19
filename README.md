@@ -162,7 +162,7 @@
         align="left" 
         alt="GitHub Stats" 
         height="190" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" 
     />
 
   </p>

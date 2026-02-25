@@ -149,28 +149,6 @@
 
 ##
 
-<br/>
-
-  <p>
-  <img
-        align="left" 
-        alt="GitHub Stats" 
-        height="130" 
-        src="https://github-readme-stats.vercel.app/api?username=Stiegler19&theme=bear&show_icons=true&hide_border=false&count_private=true" 
-  />
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="190" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiegler19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    />
-
-  </p>
-
-
-<br><br><br><br><br><br>
-
-##
 
 <div align=center>
   <h4>Visitas</h4>

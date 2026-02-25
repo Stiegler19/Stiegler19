@@ -1,12 +1,12 @@
 ## 🧑🏻‍💻 Eduardo A. Stiegler 
 
 🗺️ Olá Mundo! Me chamo Eduardo Arpelau Stiegler <br>
-💻 Sou Desenvolvedor FullStack <br>
+💻 Sou Desenvolvedor FrontEnd <br>
 👾 Tenho 23 anos <br>
 🧑🏻‍🎓 Concluí o ensino médio no IFPR. <br>
 🎒 Atualmente estou cursando: <br>
 - Análise e Desenvolvimento de Sistemas na Uninter <br>
-- Desenvolvimento FullStack na EBAC. <br>
+
 
 ##
 
